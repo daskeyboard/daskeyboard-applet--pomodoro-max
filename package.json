@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "tracks pomdoro time on a DAS Q keyboard",
   "longDescription": "Tracks the pomodoro/break time on your keyboard by using countdown by coloring on keys 1 - 0",
-  "officialProductName": "Pomdoro",
+  "officialProductName": "Pomodoro",
   "appUrl": "",
   "isSingleton": true,
   "videoUrl": "",

@@ -1,6 +1,5 @@
 // Library to send signal to Q keyboards
 const q = require("daskeyboard-applet");
-const sound = require("sound-play");
 
 const logger = q.logger;
 
