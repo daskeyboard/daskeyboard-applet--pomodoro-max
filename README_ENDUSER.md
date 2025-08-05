@@ -1,6 +1,6 @@
-# Q Applet: Pomodoro Timer
+# Q Applet: Pomodoro Max
 
-Stay productive with a fully customizable work/break timer inspired by the Pomodoro Technique, running right on your Das Keyboard Q.
+Stay productive with a fully customizable work/break timer inspired by the Pomodoro technique, running right on your Das Keyboard Q.
 The applet gradually colors a bar of keys to visualize time passing, with color-coded lighting indicating whether it’s focus time or break time.
 
 ## ⏱ Applet Behavior
@@ -19,6 +19,6 @@ The applet gradually colors a bar of keys to visualize time passing, with color-
 
 ## Example
 
-Pomdoro timer counting on the number keys.
+Pomdoro Max counting on the number keys.
 
-![Pomodoro on a Das Keyboard Q](assets/image.png "Pomodoro")
+![Pomodoro Max on a Das Keyboard Q](assets/image.png "Pomodoro Max")

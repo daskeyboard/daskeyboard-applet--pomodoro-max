@@ -3,7 +3,7 @@ const q = require("daskeyboard-applet");
 
 const logger = q.logger;
 
-class Pomodoro extends q.DesktopApp {
+class PomodoroMax extends q.DesktopApp {
   constructor() {
     super();
     // run every second
@@ -202,7 +202,7 @@ class Pomodoro extends q.DesktopApp {
 }
 
 module.exports = {
-  Pomodoro: Pomodoro,
+  PomodoroMax: PomodoroMax,
 };
 
-const applet = new Pomodoro();
+const applet = new PomodoroMax();
