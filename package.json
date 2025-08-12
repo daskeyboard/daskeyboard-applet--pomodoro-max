@@ -28,7 +28,7 @@
     "dev": "node index.js dev '{\"applet\":{\"user\":{\"pom_time\":\"4\",\"pom_color\":\"#00FF00\",\"break_time\":\"1\",\"break_color\":\"#FF9600\"}},\"geometry\":{\"width\":10,\"height\":1,\"origin\":{\"x\":2,\"y\":1}}}'"
   },
   "engines": {
-    "das-keyboard-q": "3.1.0"
+    "das-keyboard-q": "4.2.1"
   },
   "dependencies": {
     "daskeyboard-applet": "^2.11.5",
