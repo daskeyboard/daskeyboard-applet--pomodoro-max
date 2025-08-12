@@ -194,7 +194,7 @@ class PomodoroMax extends q.DesktopApp {
     }
     let signal = new q.Signal({
       points: [points],
-      name: "Pomodoro",
+      name: "Pomodoro Max",
       isMuted: true,
     });
     return signal;
