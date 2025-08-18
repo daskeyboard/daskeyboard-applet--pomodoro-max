@@ -1,5 +1,7 @@
 # Q Applet: Pomodoro Max
 
+This is the Github repository of the [Pomodoro Max](https://github.com/daskeyboard/daskeyboard-applet--pomodoro-max) applet for the Das Keyboard Q Software
+
 Stay productive with a fully customizable work/break timer inspired by the Pomodoro technique, running right on your Das Keyboard Q.
 The applet gradually colors a bar of keys to visualize time passing, with color-coded lighting indicating whether it’s focus time or break time.
 
