@@ -1,7 +1,7 @@
 {
   "name": "daskeyboard-applet--pomodoro-max",
   "displayName": "Pomodoro Max",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Pomodoro timer for your Das Keyboard Q.",
   "longDescription": "Turns a bar of 10 keys on your Das Keyboard Q into a dynamic countdown timer, visually tracking work and break sessions through color changes.",
   "officialProductName": "Pomodoro Max",
